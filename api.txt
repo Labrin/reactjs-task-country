@@ -1,0 +1,2 @@
+https://restcountries.eu/rest/v2/capital/{capital}
+https://restcountries.eu/rest/v2/alpha/{code}
